@@ -1,0 +1,30 @@
+.wrap {
+  display: flex;
+  width: 100px;
+  height: 100px;
+  justify-content: center;
+  align-items: center;
+  font-size: 50px;
+  font-weight: bold;
+  color: #fff;
+  margin: 5px;
+}
+
+.idle {
+  border: 2px solid #bdbbbf;
+}
+
+.missed {
+  background-color: #4b4a4d;
+  border: 2px solid #4b4a4d;
+}
+
+.green {
+  background-color: #2e8031;
+  border: 2px solid #2e8031;
+}
+
+.yellow {
+  background-color: #a6a827;
+  border: 2px solid #a6a827;
+}

@@ -1,0 +1,10 @@
+.wrap {
+  display: flex;
+  flex-direction: column;
+  margin: 0 auto;
+}
+
+.row {
+  display: flex;
+  width: 100%;
+}
